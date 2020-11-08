@@ -1,2 +1,2 @@
 # MY_100daysofCode_Python
-!00 days of Python
+This is a list of all the code that I typed for a course that I was taking on Udemy.
